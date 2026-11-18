@@ -7,6 +7,12 @@
 [![Framework](https://img.shields.io/badge/GUI-Qt_Creator-41CD52?style=for-the-badge&logo=qt&logoColor=white)](https://www.qt.io)
 [![University](https://img.shields.io/badge/UPC-FIB-0070BA?style=for-the-badge)](https://www.fib.upc.edu)
 
+> [!NOTE]
+> **Estat del repositori & Progrés acadèmic:**  
+> Aquest repositori recull les pràctiques i laboratoris inicials que he anat completant. Com a assignatura que estic cursant, aniré afegint continguts progressivament un cop superats els terminis d'avaluació.  
+> 
+> *Té una finalitat secundària com a demostració del meu coneixement base en disseny de sistemes gràfics, renderitzat i experiència d'usuari (la meva dedicació primordial se centra en projectes d'enginyeria de programari).*
+
 ---
 
 ## 📚 Temari i Pràctiques
