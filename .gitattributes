@@ -1,0 +1,7 @@
+*Makefile* linguist-detectable=false
+*Makefile* linguist-vendored=true
+*.pro linguist-language=C++
+*.vert linguist-language=GLSL
+*.frag linguist-language=GLSL
+*.cpp linguist-language=C++
+*.h linguist-language=C++
