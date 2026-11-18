@@ -1,0 +1,6 @@
+TARGET = holaMon
+QT += widgets
+CONFIG += warn_on
+HEADERS += hola.h
+SOURCES += hola.cpp
+SOURCES += main.cpp
